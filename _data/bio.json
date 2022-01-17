@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Reese Kisaba",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://rkisaba.github.io/template/images/Reese Portrait 1A Square.jpg",
+    "email": "rkisaba@hawaii.edu",
+    "phone": "808-294-5576",
+    "website": "https://rkisaba.github.io",
+    "summary": "I am studying for a B.B.A in Finance and Management Information Systems from the Shidler College of Business, but I am also working toward a Minor in Economics from the college of at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,42 +17,44 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "rkisaba",
+        "url": "http://github.com/rkisaba"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "reesekisaba",
+        "url": "http://linkedin.com/in/reesekisaba"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "reesek2g",
+        "url": "http://instagram.com/reesek2g"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Video games",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Valorant",
+        "Team Fight Tactics",
+        "Destiny 2"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Sports",
       "keywords": [
+        "Baseball",
+        "Football",
+        "Basketball",
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "All things fish",
       "keywords": [
+        "Fishing",
+        "Diving",
+        "Fish Tanks",
       ]
     }
   ],
