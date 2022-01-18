@@ -60,26 +60,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Adobe Photoshop/Lightroom",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Photo Editing",
+        "Image Adjusting"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Word",
+        "Powerpoint",
+        "Excel"
       ]
     }
   ],
