@@ -1,124 +1,125 @@
 {
-  "basics": {
-    "name": "Reese Kisaba",
-    "label": "Shidler Undergraduate",
-    "picture": "https://rkisaba.github.io/images/Reese_Portrait.jpg",
-    "email": "rkisaba@hawaii.edu",
-    "phone": "808-294-5576",
-    "website": "https://rkisaba.github.io",
-    "summary": "I am studying for a B.B.A in Finance and Management Information Systems from the Shidler College of Business, but I am also working toward a Minor in Economics from the college of at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Reese Kisaba",
+      "label":"Shidler Undergraduate",
+      "picture":"https://rkisaba.github.io/images/Reese_Portrait.jpg",
+      "email":"rkisaba@hawaii.edu",
+      "phone":"808-294-5576",
+      "website":"https://rkisaba.github.io",
+      "summary":"I am studying for a B.B.A in Finance and Management Information Systems from the Shidler College of Business, but I am also working toward a Minor in Economics from the college of at the University of Hawaii. I expect to graduate in Spring, 2024.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"rkisaba",
+            "url":"http://github.com/rkisaba"
+         },
+         {
+            "network":"linkedin",
+            "username":"reesekisaba",
+            "url":"http://linkedin.com/in/reesekisaba"
+         },
+         {
+            "network":"instagram",
+            "username":"reesek2g",
+            "url":"http://instagram.com/reesek2g"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "rkisaba",
-        "url": "http://github.com/rkisaba"
+         "name":"Video games",
+         "keywords":[
+            "Valorant",
+            "Team Fight Tactics",
+            "Destiny 2"
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "reesekisaba",
-        "url": "http://linkedin.com/in/reesekisaba"
+         "name":"Sports",
+         "keywords":[
+            "Baseball",
+            "Football",
+            "Basketball"
+         ]
       },
       {
-        "network": "instagram",
-        "username": "reesek2g",
-        "url": "http://instagram.com/reesek2g"
+         "name":"All things fish",
+         "keywords":[
+            "Fishing",
+            "Diving",
+            "Fish Tanks"
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Video games",
-      "keywords": [
-        "Valorant",
-        "Team Fight Tactics",
-        "Destiny 2"
-      ]
-    },
-    {
-      "name": "Sports",
-      "keywords": [
-        "Baseball",
-        "Football",
-        "Basketball",
-      ]
-    },
-    {
-      "name": "All things fish",
-      "keywords": [
-        "Fishing",
-        "Diving",
-        "Fish Tanks",
-      ]
-    }
-  ],
- "skills": [
-    {
-      "name": "Microsoft Office",
-      "level": "",
-      "keywords": [
-        "Word",
-        "Powerpoint",
-        "Excel"
-      ]
-    },
-    {
-      "name": "Adobe Photoshop/Lightroom",
-      "level": "",
-      "keywords": [
-        "Photography"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Finance/MIS (expected Spring, 2024)",
-      "studyType": "B.B.A.",
-      "startDate": "2020-08-23",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Office of Admissions",
-      "position": "Admissions Assistant",
-      "website": "https://manoa.hawaii.edu/admissions/",
-      "startDate": "2021-06-29",
-      "endDate": "Present",
-      "summary": "Student Admissions Assistant",
-      "highlights": [
-        "Guide students through the application and New Warrior process"
-        ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Manoa Academic Merit Scholarship",
-      "date": "Fall 2020-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "Scholarships awarded to incoming freshmen who meet the GPA requirement (3.5), SAT score threshold (1200), or ACT score threshold (23) at the time of application."
-    },
-    {
-      "title": "Dean's List",
-      "date": "2020-Present",
-      "awarder": "University of Hawaii at Manoa",
-      "summary": "The award is given to students who maintain good academic standing during their coursework at UH Manoa."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Microsoft Office",
+         "level":"",
+         "keywords":[
+            "Word",
+            "Powerpoint",
+            "Excel"
+         ]
+      },
+      {
+         "name":"Adobe Photoshop/Lightroom",
+         "level":"",
+         "keywords":[
+            "Photography"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Finance/MIS (expected Spring, 2024)",
+         "studyType":"B.B.A.",
+         "startDate":"2020-08-23",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"UH Manoa Office of Admissions",
+         "position":"Admissions Assistant",
+         "website":"https://manoa.hawaii.edu/admissions/",
+         "startDate":"2021-06-29",
+         "endDate":"Present",
+         "summary":"Student Admissions Assistant",
+         "highlights":[
+            "Guide students through the application and New Warrior process"
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Manoa Academic Merit Scholarship",
+         "date":"Fall 2020-Present",
+         "awarder":"University of Hawaii at Manoa",
+         "summary":"Scholarships awarded to incoming freshmen who meet the GPA requirement (3.5), SAT score threshold (1200), or ACT score threshold (23) at the time of application."
+      },
+      {
+         "title":"Dean's List",
+         "date":"2020-Present",
+         "awarder":"University of Hawaii at Manoa",
+         "summary":"The award is given to students who maintain good academic standing during their coursework at UH Manoa."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
