@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My First WODs
+title: My WODs
 date: 2022-01-24
 labels:
   - HTML/CSS
