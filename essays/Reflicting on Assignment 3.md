@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My WODs
+title: Assignment 3 Reflective Essay
 date: 2022-05-13
 labels:
   - HTML/CSS
